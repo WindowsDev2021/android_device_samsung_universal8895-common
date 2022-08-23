@@ -93,7 +93,7 @@ PRODUCT_PACKAGES += \
     libfwdlockengine \
     libdrmclearkeyplugin \
     android.hardware.drm@1.0-service \
-    android.hardware.drm@1.4-service.clearkey \
+    android.hardware.drm-service.clearkey \
     android.hardware.drm@1.0-impl
 
 # Fingerprint
